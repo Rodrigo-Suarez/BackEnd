@@ -5,3 +5,4 @@ bcrypt
 pymongo
 python-multipart
 uvicorn
+poetry
