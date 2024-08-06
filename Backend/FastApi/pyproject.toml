@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "back-end"
+version = "1.0"
+description = "mi primer backend"
+authors = ["rodrigo suarez"]
+license = "hola"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
